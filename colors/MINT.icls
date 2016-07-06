@@ -1,0 +1,97 @@
+<scheme name="MINT" version="142" parent_scheme="Darcula">
+  <option name="LINE_SPACING" value="1.0" />
+  <option name="EDITOR_FONT_SIZE" value="12" />
+  <option name="EDITOR_FONT_NAME" value="Menlo" />
+  <attributes>
+    <option name="SASS_COLOR">
+      <value>
+        <option name="FOREGROUND" value="ffa5" />
+      </value>
+    </option>
+    <option name="SASS_COMMENT">
+      <value>
+        <option name="FOREGROUND" value="ffad7e" />
+        <option name="FONT_TYPE" value="2" />
+      </value>
+    </option>
+    <option name="SASS_DEFAULT">
+      <value>
+        <option name="FOREGROUND" value="cc7832" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_EXTEND">
+      <value>
+        <option name="FOREGROUND" value="ff958c" />
+      </value>
+    </option>
+    <option name="SASS_GLOBAL">
+      <value>
+        <option name="FOREGROUND" value="ff958c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_IDENTIFIER">
+      <value>
+        <option name="FOREGROUND" value="ccb6ab" />
+      </value>
+    </option>
+    <option name="SASS_ID_SELECTOR">
+      <value>
+        <option name="FOREGROUND" value="ffcb8f" />
+      </value>
+    </option>
+    <option name="SASS_IMPORTANT">
+      <value>
+        <option name="FOREGROUND" value="ff675f" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_KEYWORD">
+      <value>
+        <option name="FOREGROUND" value="ff958c" />
+      </value>
+    </option>
+    <option name="SASS_MIXIN">
+      <value>
+        <option name="FOREGROUND" value="e9e9e9" />
+      </value>
+    </option>
+    <option name="SASS_NUMBER">
+      <value>
+        <option name="FOREGROUND" value="ffa5" />
+      </value>
+    </option>
+    <option name="SASS_OPTIONAL">
+      <value>
+        <option name="FOREGROUND" value="ff958c" />
+        <option name="FONT_TYPE" value="1" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_NAME">
+      <value>
+        <option name="FOREGROUND" value="e9e9e9" />
+      </value>
+    </option>
+    <option name="SASS_PROPERTY_VALUE">
+      <value>
+        <option name="FOREGROUND" value="b8b8b8" />
+      </value>
+    </option>
+    <option name="SASS_STRING">
+      <value>
+        <option name="FOREGROUND" value="f4f4f4" />
+      </value>
+    </option>
+    <option name="SASS_URL">
+      <value>
+        <option name="FOREGROUND" value="b2f8fa" />
+      </value>
+    </option>
+    <option name="SASS_VARIABLE">
+      <value>
+        <option name="FOREGROUND" value="ffa5" />
+      </value>
+    </option>
+  </attributes>
+</scheme>

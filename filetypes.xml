@@ -1,0 +1,14 @@
+<application>
+  <component name="FileTypeManager" version="17">
+    <ignoreFiles list="*.hprof;*.pyc;*.pyo;*.rbc;*~;.DS_Store;.git;.hg;.svn;CVS;RCS;SCCS;__pycache__;_svn;rcs;" />
+    <extensionMap>
+      <mapping pattern=".passwd" type="PLAIN_TEXT" />
+      <mapping pattern=".htpasswd" type="PLAIN_TEXT" />
+      <mapping pattern="db3" type="PLAIN_TEXT" />
+      <mapping pattern="db2" type="PLAIN_TEXT" />
+      <mapping pattern="db" type="PLAIN_TEXT" />
+      <mapping ext="mo" type="PLAIN_TEXT" />
+      <mapping pattern="base" type="Sass" />
+    </extensionMap>
+  </component>
+</application>

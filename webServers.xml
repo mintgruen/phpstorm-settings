@@ -1,0 +1,79 @@
+<application>
+  <component name="WebServers">
+    <option name="servers">
+      <webServer id="44ad2bfc-017b-4a31-8c03-7f90b6a53105" name="MINTGRÜN Web-Rebrush 2015" url="http://www.mintgruen.com">
+        <fileTransfer host="mintgruen.de" port="2222" rootFolder="/var/www/mint/mintgruen.de/www/web/" accessType="SFTP" password="dfe7dfc3dfc4dfd0dfcfdf98df9adf9bdf9f" username="web-mint">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="256e723c-0ea7-407b-a0c6-b67f1bda5888" name="MINTGRÜN" url="http://neu.mintgruen.com">
+        <fileTransfer host="mintgruen.de" port="2222" rootFolder="/var/www/mint/mintgruen.com/www/web/" accessType="SFTP" password="dfe7dfcfdfc6dfc3dfd9dfd9dfcfdf9bdf9c" username="web-mint">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c2a2ff1f-0217-45a3-b076-986a8e5831c6" name="Sandhelden" url="http://www.sandhelden.de/">
+        <fileTransfer host="ssh.sandhelden.de" port="22" rootFolder="/customers/7/3/8/sandhelden.de/httpd.www/" accessType="SFTP" password="dfeddfc5dfd8dfc3dfc6dfc6dfcbdf98df9adf9bdf9fdf8b" username="sandhelden.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="04fc81ad-6ac1-4325-95c8-428afa124d7f" name="MEIN INTERIEUR" url="http://mein-interieur.com">
+        <fileTransfer host="mein-interieur.com" port="21" rootFolder="/wp-content/themes/meininterieur" password="dfe6dfcfdfcedfcfdfd8dfc8dfcfdfd0dfdfdfcddf98df9adf9bdf9f" username="u68725091-mintgruen">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="ea6e2832-e0e8-48a7-bfd9-8e09af1f8db7" name="Max Stürmer" url="http://maxstuermer.com">
+        <fileTransfer host="ssh.maxstuermer.com" port="22" rootFolder="/www/wp-content/" accessType="SFTP" password="df9ddf98df98df9bdfc2dfc3dfc6dfc3dfcbdfc4" username="maxstuermer.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="f0c7370e-cb6c-49d2-963f-4a3c1924ffb4" name="MEIN INTERIEUR - product export" url="http://mein-interieur.com">
+        <fileTransfer host="mein-interieur.com" port="21" rootFolder="/wp-content/plugins/product-export" password="dfe6dfcfdfcedfcfdfd8dfc8dfcfdfd0dfdfdfcddf98df9adf9bdf9f" username="u68725091-mintgruen">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="21" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="956596dc-8dd7-4d06-a009-1a03be82a092" name="showcase.mintgruen.com (Gallery One)" url="http://showcase.mintgruen.com/gallery-one">
+        <fileTransfer host="mintgruen.de" port="2222" rootFolder="/var/www/mint/mintgruen.com/showcase/web/gallery-one/wp-content" accessType="SFTP" password="dffadfccdfcfdfccdfccdfcfdfd8dfc7dfc3dfc4dfd0dfcfdf98df9adf9bdf9f" username="web-mint">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="2222" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="d26e28ea-2cd6-4a96-b5a5-51e8b4923dbe" name="Chaos Compressor Club" url="http://mintgruen:8888/chaoscompressorclub/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="87617f82-8d8f-49d3-88a8-fcd1aa027af4" name="Fewo Melchior" url="http://neu.fewo-melchior.de">
+        <fileTransfer host="fewo-melchior.de" port="22" accessType="SFTP" username="fewojm_0">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
+      <webServer id="c0a9a772-9030-4a1b-908c-c42dc37e1b60" name="Melchior lokal" url="http://melchior:8888/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="9c5fd1ee-6ac7-4ca9-9fef-fa19a43629bf" name="MINTGRÜN Webserver" url="http://192.168.100.2/webserver/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+    </option>
+  </component>
+</application>
