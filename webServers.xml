@@ -74,6 +74,9 @@
       <webServer id="9c5fd1ee-6ac7-4ca9-9fef-fa19a43629bf" name="MINTGRÜN Webserver" url="http://192.168.100.2/webserver/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="2137bbef-5801-4200-80f2-77faa2241473" name="SOTENÄS CAMPING" url="http://mintgruen.ddns.net:2121/kunden/sotenascamping/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
