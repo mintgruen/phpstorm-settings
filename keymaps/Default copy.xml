@@ -1,0 +1,11 @@
+<keymap version="1" name="Default copy" parent="Mac OS X 10.5+">
+  <action id="Macro.ERASE Comment">
+    <keyboard-shortcut first-keystroke="alt 1" />
+  </action>
+  <action id="Macro.Test Background">
+    <keyboard-shortcut first-keystroke="alt 3" />
+  </action>
+  <action id="Macro.Test Border">
+    <keyboard-shortcut first-keystroke="alt 2" />
+  </action>
+</keymap>
