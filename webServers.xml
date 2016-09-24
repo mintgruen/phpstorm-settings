@@ -77,10 +77,13 @@
       <webServer id="2137bbef-5801-4200-80f2-77faa2241473" name="SOTENÄS CAMPING" url="http://mintgruen.ddns.net:2121/kunden/sotenascamping/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="56f2a732-044c-4e55-a9c7-07ad28294873" name="SOTENÄS CAMPING" url="http://mintgruen.ddns.net:2121/kunden/sotenascamping/">
+      <webServer id="56f2a732-044c-4e55-a9c7-07ad28294873" name="SOTENÄS CAMPING (1)" url="http://mintgruen.ddns.net:2121/kunden/sotenascamping/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
       <webServer id="584af379-b94a-48bd-a1d3-3e58f1f95f5e" name="Melchior" url="http://mintgruen.ddns.net:2121/kunden/melchior">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="a9be318c-0e8d-4e35-b216-cbf43ffaf311" name="FeWo Melchior" url="http://neu.fewo-melchior.de/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
     </option>
