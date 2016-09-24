@@ -1,0 +1,13 @@
+<application>
+  <component name="ActionMacroManager">
+    <macro name="Test Border">
+      <typing text-keycode="66:0;79:0;82:0;68:0;69:0;82:0;46:1;32:0;97:0;80:0;88:0;32:0;83:0;79:0;76:0;73:0;68:0;32:0;82:0;69:0;68:0;32:0;55:1;55:1;69:0;82:0;65:0;83:0;69:0">border:&amp;#x20;1px&amp;#x20;solid&amp;#x20;red&amp;#x20;//erase</typing>
+    </macro>
+    <macro name="ERASE Comment">
+      <typing text-keycode="32:0;55:1;55:1;69:0;82:0;65:0;83:0;69:0">&amp;#x20;//erase</typing>
+    </macro>
+    <macro name="Test Background">
+      <typing text-keycode="66:0;65:0;67:0;75:0;71:0;82:0;79:0;85:0;78:0;68:0;46:1;32:0;76:0;73:0;71:0;72:0;84:0;71:0;82:0;69:0;69:0;78:0;32:0;55:1;55:1;69:0;82:0;65:0;83:0;69:0">background:&amp;#x20;lightgreen&amp;#x20;//erase</typing>
+    </macro>
+  </component>
+</application>
