@@ -86,6 +86,9 @@
       <webServer id="a9be318c-0e8d-4e35-b216-cbf43ffaf311" name="FeWo Melchior" url="http://neu.fewo-melchior.de/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="395602db-3ccb-4f87-8806-9a3f28d1a685" name="Heute in Lübeck" url="http://mintgruen.ddns.net:2121/projekte/heuteinluebeck/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
