@@ -92,8 +92,16 @@
       <webServer id="eac94a60-5709-44f3-abc8-797bd5a1995a" name="ABRISS" url="http://mintgruen.ddns.net:2121/kunden/abriss/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
-      <webServer id="094b0bd7-eaa3-4257-8ef2-a97a43be4312" name="MINTGRÜN" url="http://mintgruen.ddns.net:2121/projekte/mintgruen/">
+      <webServer id="094b0bd7-eaa3-4257-8ef2-a97a43be4312" name="MINTGRÜN (1)" url="http://mintgruen.ddns.net:2121/projekte/mintgruen/">
         <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
+      <webServer id="44822593-0d5a-40dd-bdb3-85eebc3bcc86" name="Sandhelden NEU" url="http://www.sandhelden.de/">
+        <fileTransfer host="ssh.sandhelden.de" port="22" rootFolder="/www/neu" accessType="SFTP" password="dfeddfc5dfd8dfc3dfc6dfc6dfcbdf98df9adf9bdf9fdf8b" username="sandhelden.de">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
       </webServer>
     </option>
   </component>
