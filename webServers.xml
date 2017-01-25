@@ -103,6 +103,14 @@
           <option name="port" value="22" />
         </fileTransfer>
       </webServer>
+      <webServer id="a7777a20-3ebf-43e9-ab42-9bdc127ab95e" name="MINTGRUEN NEU" url="http://neu.mintgruen.com">
+        <fileTransfer host="ssh.mintgruen.com" port="22" rootFolder="/www/neu/wp-content/themes/mintgruen" accessType="SFTP" password="dffadfccdfcfdfccdfccdfcfdfd8dfc7dfc3dfc4dfd0dfcfdf98df9adf9bdf9f" username="mintgruen.com">
+          <advancedOptions>
+            <advancedOptions dataProtectionLevel="Private" />
+          </advancedOptions>
+          <option name="port" value="22" />
+        </fileTransfer>
+      </webServer>
     </option>
   </component>
 </application>
