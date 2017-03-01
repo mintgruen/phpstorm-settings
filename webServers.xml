@@ -103,6 +103,9 @@
       <webServer id="a37d5e78-4c9b-472e-9f8b-f6cae1859b37" name="Mama Lauta" url="http://mintgruen.ddns.net:2121/projekte/mamalauta/">
         <fileTransfer port="0" accessType="LOCAL" />
       </webServer>
+      <webServer id="8473a6db-8384-4b86-af44-7f9ec070067b" name="Agnieszka Doroszewicz" url="http://mintgruen.ddns.net:2121/kunden/doroszewicz/">
+        <fileTransfer port="0" accessType="LOCAL" />
+      </webServer>
     </option>
   </component>
 </application>
